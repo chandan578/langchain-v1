@@ -1,0 +1,8 @@
+In that we use google Antigravity
+
+And also we use UV(Ultraviolet) framework
+For use uv --> Install uv using that link : powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+Then initialize the project using : uv init
+Create environment using : uv venv
+Activate environment using : uv venv activate or .venv\Scripts\activate
+After that install the requirements using : uv add -r requirements.txt
